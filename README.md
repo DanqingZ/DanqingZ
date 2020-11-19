@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 <h2> Hi, I'm Danqing! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://danqingz.github.io/corgi-con.png" width="230">
+<img align='right' src="https://danqingz.github.io/corgi-con.png" width="500">
 <p><em>Applied Scientist II at <a href="https://www.amazon.science">Amazon Search Science</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ph.D. graduated from <a href="https://engineering.berkeley.edu">Berkeley Engineering</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Danqing_Z](https://img.shields.io/twitter/follow/Danqing_Z?style=social)](https://twitter.com/Danqing_Z)
 
 
-### <img src="https://danqingz.github.io/corgi-con.png" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
