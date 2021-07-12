@@ -3,4 +3,4 @@
 
 [![Twitter: Danqing_Z](https://img.shields.io/twitter/follow/Danqing_Z?style=social)](https://twitter.com/Danqing_Z)
 
-![GitHub stats]("https://github-readme-stats.vercel.app/api?username=danqingz&show_icons=true&hide_border=true")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
