@@ -2,3 +2,7 @@
 </em></p>
 
 [![Twitter: Danqing_Z](https://img.shields.io/twitter/follow/Danqing_Z?style=social)](https://twitter.com/Danqing_Z)
+
+<summary>:zap: Github Stats</summary>
+
+<img align="left" alt="Danni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danqingz&show_icons=true&hide_border=true" />
