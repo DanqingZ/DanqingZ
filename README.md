@@ -3,6 +3,6 @@
 
 [![Twitter: Danqing_Z](https://img.shields.io/twitter/follow/Danqing_Z?style=social)](https://twitter.com/Danqing_Z)
 
-My latest Github Metrics
+## My latest Github Metrics
 ![Metrics](https://metrics.lecoq.io/danqingz?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%)
 
