@@ -2,5 +2,3 @@
 </em></p>
 
 [![Twitter: Danqing_Z](https://img.shields.io/twitter/follow/Danqing_Z?style=social)](https://twitter.com/Danqing_Z)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
