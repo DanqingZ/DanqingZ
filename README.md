@@ -6,7 +6,7 @@
 ## My latest Github Metrics
 ![Metrics](https://metrics.lecoq.io/danqingz?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%)
 
-![](https://github-readme-stats.vercel.app/api?username=Danqing_Z&theme=buefy&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=DanqingZ&theme=buefy&hide_border=false)
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danqing_Z&theme=minimal" /> </div> 
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanqingZ&theme=minimal" /> </div> 
 
